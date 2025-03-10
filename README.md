@@ -7,7 +7,7 @@ This project aims to analyze the relationship between crime rates and socioecono
 The motivation behind this project is to understand how socioeconomic disparities contribute to crime rates and whether targeted policies could reduce crime in affected areas. Many studies suggest that factors like poverty, job availability, and educational access play a significant role in crime trends, and this project will attempt to validate or challenge these claims through data analysis.
 
 ## Data Sources
-The primary dataset used for this project is **crime_vs_socioeconomic_factors.csv**, sourced from Kaggle: [Crime Rate vs Socioeconomic Factors Dataset](https://www.kaggle.com/datasets/adilshamim8/crime-rate-vs-socioeconomic-factors/data). This dataset includes crime statistics and socioeconomic indicators, which will allow for a comprehensive analysis of potential correlations between these factors.
+The primary dataset used for this project is crime vs socioeconomic factors, sourced from Kaggle: [Crime Rate vs Socioeconomic Factors Dataset](https://www.kaggle.com/datasets/adilshamim8/crime-rate-vs-socioeconomic-factors/data). This dataset includes crime statistics and socioeconomic indicators, which will allow for a comprehensive analysis of potential correlations between these factors.
 
 ## Data Collection Plan
 - The primary dataset has already been obtained from Kaggle.
