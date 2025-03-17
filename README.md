@@ -9,6 +9,13 @@ The motivation behind this project is to understand how socioeconomic disparitie
 ## Data Sources
 The primary dataset used for this project is crime vs socioeconomic factors, sourced from Kaggle: [Crime Rate vs Socioeconomic Factors Dataset](https://www.kaggle.com/datasets/adilshamim8/crime-rate-vs-socioeconomic-factors/data). This dataset includes crime statistics and socioeconomic indicators, which will allow for a comprehensive analysis of potential correlations between these factors.
 
+## Research Questions
+1. How does the education level affect crime rates?
+2. What relationship exists between employment rate and crime rate?
+3. Does a higher median household income correlate with lower crime rates?
+4. Is poverty rate a stronger predictor of crime rates when population density is high?
+5. Can a multivariate model combining education level, employment rate, median income, poverty rate, and population density effectively predict crime rates?
+
 ## Data Collection Plan
 - The primary dataset has already been obtained from Kaggle.
 - Data will be cleaned and analyzed to ensure consistency.
