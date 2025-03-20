@@ -21,17 +21,14 @@ The primary dataset used for this project is crime vs socioeconomic factors, sou
 
 ---
 
-## 🧩 Features Used
+## 🧩 Features Will be Used
 The following features will be used for this project:
 
 - **Crime Rate (dependent variable):** Number of reported crimes per 100,000 people.
 - **Education Level (%):** Percentage of population with a high school diploma or higher.
-- **Employment Rate (%):** Percentage of the labor force that is employed.
 - **Unemployment Rate (%):** Percentage of the labor force that is unemployed.
 - **Median Household Income (USD):** Median income of households in each region.
-- **Per Capita Income (USD):** Average income per person.
 - **Poverty Rate (%):** Percentage of the population living below the poverty line.
-- **Population Density (people per square mile/km²):** Number of people per unit area.
 
 ---
 
